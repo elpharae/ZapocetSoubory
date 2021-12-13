@@ -1,0 +1,6 @@
+Adam;true
+Roman;true
+Jan;false
+Petr;false
+Adam;true
+Tadeáš;true
